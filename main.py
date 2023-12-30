@@ -20,5 +20,6 @@ while run:
             run = False
 
 
+    pg.display.update()
 
 pg.quit()
