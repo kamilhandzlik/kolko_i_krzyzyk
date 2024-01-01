@@ -1,11 +1,11 @@
 import pygame as pg
 pg.init()
 
-WHITE = (255, 255, 255)         # X and O
-BLACK = (0, 0, 0)               #lines and text
-RED = (255, 0, 0)               #loser
-BLUE = (0, 255, 0)              #background color
-GREEN = (0, 0, 255)             #winner
+WHITE = (255, 255, 255)         #lines
+BLACK = (0, 0, 0)               #text
+RED = (255, 0, 0)               # X
+BLUE = (0, 0, 255)              #background color
+GREEN = (0, 255, 0)             # O
 
 
 FPS = 60
