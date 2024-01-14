@@ -10,7 +10,7 @@ GREEN = (0, 255, 0)             # O
 
 FPS = 60
 
-WIDTH, HEIGHT = 600, 600
+WIDTH, HEIGHT = 300, 300
 
 ROWS = COLS = 100
 
